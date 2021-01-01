@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: División Administrativa de Panamá
+description: Crea una organización territorial de Panamá en una base de datos relacional (hasta asentamiento / lugar poblado) a partir de los datos públicos (.xls del 2010) del Instituto Nacional de Estadística y Censos de Panamá (INEC)

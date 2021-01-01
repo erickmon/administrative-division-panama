@@ -1,0 +1,692 @@
+id|districts_id|name
+1|1|Chiriquí Grande
+2|2|Puerto Piña
+3|3|Achiote
+4|4|Cerro Iglesias
+5|5|Chitra
+6|6|Narganá
+7|7|Barrios Unidos
+8|6|Ailigandí
+9|8|Río de Jesús
+10|9|El Harino
+11|10|Pinogana
+12|11|Juan Díaz
+13|12|Rodolfo Aguilar Delgado
+14|10|Púcuro
+15|11|Río Hato
+16|1|Bajo Cedro
+17|13|Cauchero
+18|14|Bahía Azul
+19|15|Guabito
+20|16|San Marcelo
+21|5|La Tetilla
+22|2|La Palma
+23|17|Ancón
+24|18|Calidonia
+25|5|La Raya de Calobre
+26|19|Peñas Chatas
+27|20|Alto Boquete
+28|20|Jaramillo
+29|18|Río Grande
+30|21|Agua Buena
+31|22|Bajo Corral
+32|23|El Guásimo
+33|22|El Muñoz
+34|9|El Potrero
+35|19|Llano Grande
+36|24|Los Díaz
+37|10|Metetí
+38|25|Oria Arriba
+39|12|Puerto Armuelles
+40|80|Río Iglesias
+41|26|Tortí
+42|27|Cañas
+43|28|Capira
+44|27|El Cacao
+45|27|Isla de Cañas
+46|28|Villa Rosario
+47|26|El Llano
+48|80|Santa Fe
+49|27|El Cortezo
+50|27|La Tronosa
+51|2|Chepigana
+52|29|Krüa
+53|30|Parita
+54|31|Agua de Salud
+55|31|Guayabito
+56|32|Arenas
+57|32|Quebro
+58|17|Chilibre
+59|33|Gatucito
+60|18|La Soledad
+61|9|Llano Grande
+62|9|Piedras Gordas
+63|34|Remance
+64|35|Santa Cruz
+65|36|Unión Santeña
+66|80|Agua Fría
+67|37|Nombre de Dios
+68|31|Buenos Aires
+69|15|Las Delicias
+70|29|Peña Blanca
+71|38|Limón
+72|39|San Bartolo
+73|16|Cañazas
+74|40|Cordillera
+75|41|Gualaca
+76|34|Los Hatillos
+77|42|Ponuga
+78|43|Quebrada de Loro
+79|44|Río Sábalo
+80|45|San Pablo Viejo
+81|11|Cabuya
+82|82|Bledeshia
+83|40|Guabal
+84|46|Los Pozos
+85|23|Miguel de La Borda
+86|47|Tierra Oscura
+87|28|El Cacao
+88|16|San José
+89|48|Cerro Banco
+90|36|Chimán
+91|7|Aguadulce
+92|19|El Tijera
+93|19|Los Llanos
+94|49|El Coco
+95|5|La Laguna
+96|50|Olá
+97|38|Puerto Pilón
+98|27|Altos de Güera
+99|18|Soná
+100|49|Tulú
+101|38|Cristóbal
+102|38|Santa Rosa
+103|26|Madungandí
+104|42|Carlos Santana Ávila
+105|43|Cascabel
+106|43|Hato Culantro
+107|49|Pajonal
+108|11|San Juan de Dios
+109|51|Nuevo Emperador
+110|48|Cerro de Patena
+111|52|Portobelo
+112|53|Boca del Monte
+113|54|Alanje
+114|17|Alcalde Díaz
+115|3|La Encantada
+116|3|Salud
+117|55|El Espino
+118|4|Hato Chamí
+119|4|Jädeberi
+120|56|Justo Fidel Palacios
+121|57|Los Algarrobos
+122|10|Yaviza
+123|13|Almirante
+124|7|El Roble
+125|35|Río Sereno
+126|38|Buena Vista
+127|58|Chepo
+128|29|Sitio Prado
+129|29|Nibra
+130|48|Namnoni
+131|29|Roka
+132|58|El Toro
+133|29|Chichica
+134|82|Dogata
+135|35|Dominical
+136|41|Los Ángeles
+137|39|Boró
+138|35|Breñón
+139|29|Alto Caballero
+140|56|Potrero de Caña
+141|59|El Rincón
+142|43|Hato Corotú
+143|48|Emplanada de Chorcha
+144|31|Güibale
+145|60|Piedra Roja
+146|29|Cerro Puerco
+147|20|Los Naranjos
+148|43|Hato Jobo
+149|83|Burí
+150|33|Rubén Cantú
+151|5|El Cocla
+152|14|Río Chiriquí
+153|61|La Carrillo
+154|49|Río Indio
+155|17|24 de Diciembre
+156|28|Campana
+157|18|Cativé
+158|29|Bakama
+159|56|Cerro Viejo
+160|59|Cerro de Casa
+161|62|Gómez
+162|15|Las Tablas
+163|62|La Concepción
+164|33|El Pantano
+165|24|Herrera
+166|62|Aserrío de Gariché
+167|62|Santo Domingo
+168|78|Cerro Punta
+169|62|San Andrés
+170|31|Alto de Jesús
+171|33|Calovébora
+172|59|Las Palmas
+173|16|Cerro Plata
+174|28|Cermeño
+175|33|El Alto
+176|18|Rodeo Viejo
+177|79|San José del General
+178|31|Cerro Pelado
+179|46|La Pitaloza
+180|5|Calobre
+181|58|Las Minas
+182|11|El Valle
+183|61|Atalaya
+184|41|Hornito
+185|35|Plaza Caisán
+186|39|La Mesa
+187|55|Los Llanitos
+188|32|Tebario
+189|63|Espino Amarillo
+190|16|Los Valles
+191|29|Cerro Caña
+192|16|El Aromillo
+193|42|Urracá
+194|22|Bayano
+195|23|Río Indio
+196|18|Bahía Honda
+197|46|Las Llanas
+198|55|La Laguna
+199|59|El Prado
+200|39|Bisvalles
+201|56|Lajas de Tolé
+202|48|Soloy
+203|33|Santa Fe
+204|11|Caballero
+205|49|Toabré
+206|15|Cochigró
+207|18|Quebrada de Oro
+208|23|Coclé del Norte
+209|9|Las Lomas
+210|19|Cerro Largo
+211|50|El Picacho
+212|26|Cañita
+213|31|El Bale
+214|24|Guadalupe
+215|34|Corral Falso
+216|26|Chepo
+217|52|Isla Grande
+218|64|Capellanía
+219|42|Edwin Fábrega
+220|28|Cirí de Los Sotos
+221|31|El Piro
+222|55|Guayabito
+223|46|El Cedro
+224|46|Los Cerros de Paja
+225|65|Sabanagrande
+226|59|Puerto Vidal
+227|62|Santa Marta
+228|83|Tuwai
+229|34|San José
+230|20|Caldera
+231|59|Corozal
+232|59|Lolá
+233|32|Mariato
+234|48|Camarón Arriba
+235|56|Veladero
+236|54|Palo Grande
+237|56|Quebrada de Piedra
+238|33|El Cuay
+239|5|Monjarás
+240|33|Río Luis
+241|43|Hato Julí
+242|43|Salto Dupí
+243|60|Mününí
+244|59|El María
+245|45|Guacá
+246|4|Susama
+247|60|Kankintú
+248|48|Niba
+249|1|Punta Robalo
+250|46|El Capurí
+251|51|Arraiján
+252|34|San Juan
+253|66|Lajas Blancas
+254|35|Cañas Gordas
+255|13|Valle del Riscó
+256|78|Volcán
+257|3|El Guabo
+258|17|Las Cumbres
+259|42|Los Algarrobos
+260|19|Menchaca
+261|42|Santiago
+262|15|La Gloria
+263|17|Pacora
+264|17|Ernesto Córdoba Campos
+265|24|La Represa
+266|67|Sorá
+267|24|Amador
+268|68|Amelia Denis de Icaza
+269|6|Tubualá
+270|45|Cochea
+271|60|Guoroní
+272|11|Antón
+273|2|Jaqué
+274|69|Pocrí
+275|38|Ciricito
+276|25|Maríabe
+277|83|Man Creek
+278|59|Pixvae
+279|28|Cirí Grande
+280|28|Santa Rosa
+281|24|Iturralde
+282|80|Río Congo
+283|68|Arnulfo Arias
+284|24|Arosemena
+285|51|Burunga
+286|70|Cébaco
+287|10|Yape
+288|42|La Colorada
+289|18|El Marañón
+290|59|Viguí
+291|2|Garachiné
+292|21|El Guásimo
+293|21|La Colorada
+294|27|Guánico
+295|54|Guarumal
+296|12|Limónes
+297|40|Bágala
+298|45|San Pablo Nuevo
+299|37|Santa Isabel
+300|13|Valle de Aguas Arriba
+301|14|Tobobé
+302|63|Bahía Honda
+303|47|Bastimentos
+304|24|Obaldía
+305|64|Las Huacas
+306|5|Barnizal
+307|26|Santa Cruz de Chinina
+308|80|Cucunatí
+309|20|Bajo Boquete
+310|53|Boca Chica
+311|40|Pedregal
+312|29|Umaní
+313|54|El Tejar
+314|41|Rincón
+315|13|Nance del Riscó
+316|56|El Cristo
+317|67|Cabuya
+318|55|El Higo
+319|45|Bijagual
+320|29|Maraca
+321|67|Buenos Aires
+322|22|Río Hondo
+323|41|Paja de Sombrero
+324|17|San Martín
+325|62|Bugaba
+326|62|Santa Rosa
+327|10|Boca de Cupe
+328|42|La Raya de Santa María
+329|67|Chicá
+330|50|El Palmar
+331|24|Hurtado
+332|24|Santa Rita
+333|57|Los Anastacios
+334|54|Nuevo Mexico
+335|71|Lajas Adentro
+336|40|Tijeras
+337|37|Palmira
+338|43|Hato Pilón
+339|45|Pedregal
+340|20|Palmira
+341|5|La Yeguada
+342|63|Bajos de Güera
+343|34|San Francisco
+344|59|Zapotillo
+345|15|El Empalme
+346|57|Tinajas
+347|52|Garrote
+348|23|Gobea
+349|50|El Copé
+350|56|Tolé
+351|15|Changuinola
+352|82|Ijuicho
+353|5|San José
+354|1|Rambala
+355|66|Manuel Ortega
+356|28|Lídice
+357|63|Macaracas
+358|42|Canto del Llano
+359|12|Progreso
+360|22|Las Tablas Abajo
+361|21|Llano Largo
+362|24|Puerto Caimito
+363|17|Las Mañanitas
+364|38|San Juan
+365|22|El Manantial
+366|25|Pedasí
+367|7|Pocrí
+368|7|El Cristo
+369|38|Sabanitas
+370|22|El Cocal
+371|22|La Tiza
+372|42|San Martín de Porres
+373|72|La Arena
+374|21|La Villa de Los Santos
+375|21|Santa Ana
+376|22|Santo Domingo
+377|73|La Pasera
+378|24|Barrio Balboa
+379|24|Barrio Colón
+380|74|Pedro González
+381|65|Rincón Hondo
+382|38|Barrio Norte
+383|38|Barrio Sur
+384|49|Chiguirí Arriba
+385|8|Catorce de Noviembre
+386|63|La Mesa
+387|45|Chiriquí
+388|65|El Barrero
+389|65|El Pájaro
+390|5|El Potrero
+391|60|Bisira
+392|8|Las Huacas
+393|67|Bejuco
+394|28|La Trinidad
+395|68|Belisario Frias
+396|68|Belisario Porras
+397|11|Santa Rita
+398|17|Bella Vista
+399|49|Cañaveral
+400|2|Sambú
+401|27|Tonosí
+402|56|Bella Vista
+403|12|Baco
+404|17|Betania
+405|47|Bocas del Toro
+406|39|Llano Grande
+407|48|Boca de Balsa
+408|55|La Ermita
+409|44|Jingurudó
+410|2|Tucutí
+411|10|Paya
+412|52|Cacique
+413|55|San José
+414|83|Guariviara
+415|71|Juay
+416|72|Monagrillo
+417|59|San Martín de Porres
+418|71|Las Lajas
+419|2|Camoganti
+420|75|Remedios
+421|40|Boquerón
+422|40|Guayabal
+423|16|El Picador
+424|63|Llano de Piedra
+425|81|Teribe
+426|26|Las Margaritas
+427|62|El Bongo
+428|50|La Pava
+429|38|Salamanca
+430|75|El Nancito
+431|42|La Peña
+432|37|Miramar
+433|37|Palenque
+434|9|La Pintada
+435|18|Guarumal
+436|46|Los Cerritos
+437|57|Potrerillos
+438|3|Palmas Bellas
+439|36|Brujas
+440|11|El Chirú
+441|49|Coclé
+442|73|El Macano
+443|63|Las Palmas
+444|58|Leones
+445|47|Punta Laurel
+446|25|Purio
+447|80|Río Congo Arriba
+448|45|San Carlos
+449|70|Unión del Norte
+450|70|Pilón
+451|27|El Bebedero
+452|65|Las Cabras
+453|11|El Retiro
+454|24|El Arado
+455|36|Pásiga
+456|31|El Paredón
+457|53|San Lorenzo
+458|2|Setegantí
+459|27|Cambutal
+460|30|Cabuya
+461|51|Cerro Silvestre
+462|64|Guzmán
+463|28|Caimito
+464|70|Gobernadora
+465|70|Leones
+466|8|Utira
+467|54|Querévalo
+468|69|Lajamina
+469|66|Cirilo Guaynora
+470|55|Las Uvas
+471|72|San Juan Bautista
+472|35|Monte Lirio
+473|38|Escobal
+474|63|Mogollón
+475|2|Taimatí
+476|53|Horconcitos
+477|54|Canta Gallo
+478|57|Rovira
+479|57|Dolega
+480|39|Los Milagros
+481|76|Chupampa
+482|76|El Limón
+483|76|Los Canelos
+484|73|Las Trancas
+485|1|Punta Peña
+486|21|Las Guabas
+487|24|Mendoza
+488|63|El Cedro
+489|21|Villa Lourdes
+490|17|Tocumen
+491|69|Paritilla
+492|74|San Miguel
+493|70|La Garceana
+494|38|Cativá
+495|14|Kusapín
+496|64|El Caño
+497|63|Corozal
+498|67|Sajalices
+499|51|Veracruz
+500|67|Chame
+501|49|Penonomé
+502|4|Lajero
+503|75|El Porvenir
+504|64|Toza
+505|51|Juan Demóstenes Arosemena
+506|54|Divalá
+507|62|La Estrella
+508|74|Saboga
+509|70|Montijo
+510|26|Chepillo
+511|72|Chitré
+512|73|El Espinal
+513|58|Chumical
+514|57|Dos Ríos
+515|73|Llano Abajo
+516|63|Chupá
+517|5|Las Guías
+518|21|Los Olivos
+519|53|San Juan
+520|49|Río Grande
+521|51|Vista Alegre
+522|67|Punta Chame
+523|25|Los Asientos
+524|32|El Cacao
+525|57|Potrerillos Abajo
+526|52|María Chiquita
+527|27|Flores
+528|69|El Cañafístulo
+529|45|David
+530|55|San Carlos
+531|75|El Puerto
+532|21|Las Cruces
+533|67|El Líbano
+534|30|París
+535|30|Potuga
+536|35|Santa Clara
+537|37|Cuango
+538|37|Playa Chiquita
+539|17|Curundú
+540|58|Quebrada El Ciprian
+541|76|Santa María
+542|58|Quebrada del Rosario
+543|16|Las Cruces
+544|22|La Miel
+545|65|El Ciruelo
+546|61|El Barrito
+547|61|La Montañuela
+548|42|San Pedro del Espino
+549|30|Portobelillo
+550|22|El Carate
+551|73|El Hato
+552|70|Costa Hermosa
+553|46|El Calabacito
+554|37|Viento Frio
+555|22|Nuario
+556|76|El Rincón
+557|30|Los Castillos
+558|19|Ocú
+559|22|La Palma
+560|24|Playa Leona
+561|22|Las Palmitas
+562|17|El Chorrillo
+563|46|La Arena
+564|24|El Coco
+565|73|Guararé Arriba
+566|10|El Real de Santa María
+567|71|San Félix
+568|45|Las Lomas
+569|21|La Espigadilla
+570|69|Paraíso
+571|73|Guararé
+572|21|Los Ángeles
+573|21|Sabanagrande
+574|3|Piña
+575|62|Sortová
+576|22|Valle Rico
+577|24|Feuillet
+578|72|Llano Bonito
+579|22|San Miguel
+580|67|Las Lajas
+581|65|El Pedregoso
+582|22|San José
+583|75|Santa Lucia
+584|73|La Enea
+585|64|Natá
+586|22|El Pedregoso
+587|61|San António
+588|28|Villa Carmen
+589|54|Santo Tomás
+590|71|Santa Cruz
+591|67|Nueva Gorgona
+592|30|Llano de La Cruz
+593|36|Gonzalo Vásquez
+594|1|Miramar
+595|51|Santa Clara
+596|68|José Domingo Espinar
+597|17|Juan Díaz
+598|10|Wargandí
+599|38|Nueva Providencia
+600|6|Puerto Obaldía
+601|74|La Ensenada
+602|74|La Esmeralda
+603|17|Calidonia
+604|74|La Guinea
+605|40|Paraíso
+606|28|Las Ollas Arriba
+607|22|La Laja
+608|8|Los Castillos
+609|22|Las Tablas
+610|21|Tres Quebradas
+611|22|Peña Blanca
+612|68|Mateo Iturralde
+613|22|Sesteadero
+614|3|Nuevo Chagres
+615|68|Omar Torrijos
+616|77|Otoque Oriente
+617|77|Otoque Occidente
+618|22|Palmira
+619|17|Parque Lefevre
+620|17|Pedregal
+621|73|Perales
+622|65|Pesé
+623|17|Pueblo Nuevo
+624|17|Río Abajo
+625|68|Rufina Alfaro
+626|17|San Felipe
+627|17|San Francisco
+628|17|Santa Ana
+629|77|Taboga
+630|22|Vallerriquito
+631|68|Victoriano Lorenzo
+632|13|Ceiba
+633|13|Bajo Culubre
+634|13|Barriada Guaymí
+635|13|Barrio Francés
+636|78|Nueva California
+637|13|Miraflores
+638|15|Finca 12
+639|15|Finca 66
+640|15|Finca 4
+641|15|Finca 51
+642|15|La Mesa
+643|15|Barranco Adentro
+644|47|Boca del Drago
+645|47|San Cristóbal
+646|15|Barriada 4 de Abril
+647|15|Finca 6
+648|15|Finca 60
+649|15|El Silencio
+650|62|Solano
+651|62|San Isidro
+652|45|David Sur
+653|45|David Este
+654|78|Cuesta de Piedra
+655|78|Paso Ancho
+656|7|Pueblos Unidos
+657|7|Virgen del Carmen
+658|7|El Hato de San Juan de Dios
+659|9|Llano Norte
+660|64|Villarreal
+661|38|Cristóbal Este
+662|79|San Juan de Turbe
+663|79|Nueva Esperanza
+664|80|Zapallal
+665|19|Entradero del Castillo
+666|21|El Ejido
+667|17|Caimitillo
+668|17|Don Bosco
+669|17|Las Garzas
+670|39|El Higo
+671|59|Manuel E. Amador Terrero
+672|42|Rodrigo Luque
+673|42|Santiago Este
+674|42|Santiago Sur
+675|42|Nuevo Santiago
+676|18|Hicaco
+677|18|La Trinchera
+679|81|San San Drui
+680|81|Bonyik
+681|82|Gdogüeshia
+682|82|Jiküi
+683|83|Samboa
+684|60|Calante
+685|60|Tolote
+686|29|Diko
+687|29|Kikari
+688|29|Dikeri
+689|29|Mreeni
+690|31|El Peñón
+691|31|El Piro N°2
+692|14|Cañaveral

@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "provinces_id": 1,
+    "name": "Chiriquí Grande"
+  },
+  {
+    "id": 2,
+    "provinces_id": 2,
+    "name": "Chepigana"
+  },
+  {
+    "id": 3,
+    "provinces_id": 3,
+    "name": "Chagres"
+  },
+  {
+    "id": 4,
+    "provinces_id": 4,
+    "name": "Nole Duima"
+  },
+  {
+    "id": 5,
+    "provinces_id": 5,
+    "name": "Calobre"
+  },
+  {
+    "id": 6,
+    "provinces_id": 6,
+    "name": "Comarca Guna Yala"
+  },
+  {
+    "id": 7,
+    "provinces_id": 7,
+    "name": "Aguadulce"
+  },
+  {
+    "id": 8,
+    "provinces_id": 5,
+    "name": "Río de Jesús"
+  },
+  {
+    "id": 9,
+    "provinces_id": 7,
+    "name": "La Pintada"
+  },
+  {
+    "id": 10,
+    "provinces_id": 2,
+    "name": "Pinogana"
+  },
+  {
+    "id": 11,
+    "provinces_id": 7,
+    "name": "Antón"
+  },
+  {
+    "id": 12,
+    "provinces_id": 8,
+    "name": "Barú"
+  },
+  {
+    "id": 13,
+    "provinces_id": 1,
+    "name": "Almirante"
+  },
+  {
+    "id": 14,
+    "provinces_id": 4,
+    "name": "Kusapín"
+  },
+  {
+    "id": 15,
+    "provinces_id": 1,
+    "name": "Changuinola"
+  },
+  {
+    "id": 16,
+    "provinces_id": 5,
+    "name": "Cañazas"
+  },
+  {
+    "id": 17,
+    "provinces_id": 9,
+    "name": "Panamá"
+  },
+  {
+    "id": 18,
+    "provinces_id": 5,
+    "name": "Soná"
+  },
+  {
+    "id": 19,
+    "provinces_id": 10,
+    "name": "Ocú"
+  },
+  {
+    "id": 20,
+    "provinces_id": 8,
+    "name": "Boquete"
+  },
+  {
+    "id": 21,
+    "provinces_id": 11,
+    "name": "Los Santos"
+  },
+  {
+    "id": 22,
+    "provinces_id": 11,
+    "name": "Las Tablas"
+  },
+  {
+    "id": 23,
+    "provinces_id": 3,
+    "name": "Donoso"
+  },
+  {
+    "id": 24,
+    "provinces_id": 12,
+    "name": "La Chorrera"
+  },
+  {
+    "id": 25,
+    "provinces_id": 11,
+    "name": "Pedasí"
+  },
+  {
+    "id": 26,
+    "provinces_id": 9,
+    "name": "Chepo"
+  },
+  {
+    "id": 27,
+    "provinces_id": 11,
+    "name": "Tonosí"
+  },
+  {
+    "id": 28,
+    "provinces_id": 12,
+    "name": "Capira"
+  },
+  {
+    "id": 29,
+    "provinces_id": 4,
+    "name": "Müna"
+  },
+  {
+    "id": 30,
+    "provinces_id": 10,
+    "name": "Parita"
+  },
+  {
+    "id": 31,
+    "provinces_id": 4,
+    "name": "Ñurum"
+  },
+  {
+    "id": 32,
+    "provinces_id": 5,
+    "name": "Mariato"
+  },
+  {
+    "id": 33,
+    "provinces_id": 5,
+    "name": "Santa Fe"
+  },
+  {
+    "id": 34,
+    "provinces_id": 5,
+    "name": "San Francisco"
+  },
+  {
+    "id": 35,
+    "provinces_id": 8,
+    "name": "Renacimiento"
+  },
+  {
+    "id": 36,
+    "provinces_id": 9,
+    "name": "Chimán"
+  },
+  {
+    "id": 37,
+    "provinces_id": 3,
+    "name": "Santa Isabel"
+  },
+  {
+    "id": 38,
+    "provinces_id": 3,
+    "name": "Colón"
+  },
+  {
+    "id": 39,
+    "provinces_id": 5,
+    "name": "La Mesa"
+  },
+  {
+    "id": 40,
+    "provinces_id": 8,
+    "name": "Boquerón"
+  },
+  {
+    "id": 41,
+    "provinces_id": 8,
+    "name": "Gualaca"
+  },
+  {
+    "id": 42,
+    "provinces_id": 5,
+    "name": "Santiago"
+  },
+  {
+    "id": 43,
+    "provinces_id": 4,
+    "name": "Mironó"
+  },
+  {
+    "id": 44,
+    "provinces_id": 13,
+    "name": "Sambú"
+  },
+  {
+    "id": 45,
+    "provinces_id": 8,
+    "name": "David"
+  },
+  {
+    "id": 46,
+    "provinces_id": 10,
+    "name": "Los Pozos"
+  },
+  {
+    "id": 47,
+    "provinces_id": 1,
+    "name": "Bocas Del Toro"
+  },
+  {
+    "id": 48,
+    "provinces_id": 4,
+    "name": "Besikó"
+  },
+  {
+    "id": 49,
+    "provinces_id": 7,
+    "name": "Penonomé"
+  },
+  {
+    "id": 50,
+    "provinces_id": 7,
+    "name": "Olá"
+  },
+  {
+    "id": 51,
+    "provinces_id": 12,
+    "name": "Arraiján"
+  },
+  {
+    "id": 52,
+    "provinces_id": 3,
+    "name": "Portobelo"
+  },
+  {
+    "id": 53,
+    "provinces_id": 8,
+    "name": "San Lorenzo"
+  },
+  {
+    "id": 54,
+    "provinces_id": 8,
+    "name": "Alanje"
+  },
+  {
+    "id": 55,
+    "provinces_id": 12,
+    "name": "San Carlos"
+  },
+  {
+    "id": 56,
+    "provinces_id": 8,
+    "name": "Tolé"
+  },
+  {
+    "id": 57,
+    "provinces_id": 8,
+    "name": "Dolega"
+  },
+  {
+    "id": 58,
+    "provinces_id": 10,
+    "name": "Las Minas"
+  },
+  {
+    "id": 59,
+    "provinces_id": 5,
+    "name": "Las Palmas"
+  },
+  {
+    "id": 60,
+    "provinces_id": 4,
+    "name": "Kankintú"
+  },
+  {
+    "id": 61,
+    "provinces_id": 5,
+    "name": "Atalaya"
+  },
+  {
+    "id": 62,
+    "provinces_id": 8,
+    "name": "Bugaba"
+  },
+  {
+    "id": 63,
+    "provinces_id": 11,
+    "name": "Macaracas"
+  },
+  {
+    "id": 64,
+    "provinces_id": 7,
+    "name": "Natá"
+  },
+  {
+    "id": 65,
+    "provinces_id": 10,
+    "name": "Pesé"
+  },
+  {
+    "id": 66,
+    "provinces_id": 13,
+    "name": "Cémaco"
+  },
+  {
+    "id": 67,
+    "provinces_id": 12,
+    "name": "Chame"
+  },
+  {
+    "id": 68,
+    "provinces_id": 9,
+    "name": "San Miguelito"
+  },
+  {
+    "id": 69,
+    "provinces_id": 11,
+    "name": "Pocrí"
+  },
+  {
+    "id": 70,
+    "provinces_id": 5,
+    "name": "Montijo"
+  },
+  {
+    "id": 71,
+    "provinces_id": 8,
+    "name": "San Félix"
+  },
+  {
+    "id": 72,
+    "provinces_id": 10,
+    "name": "Chitré"
+  },
+  {
+    "id": 73,
+    "provinces_id": 11,
+    "name": "Guararé"
+  },
+  {
+    "id": 74,
+    "provinces_id": 9,
+    "name": "Balboa"
+  },
+  {
+    "id": 75,
+    "provinces_id": 8,
+    "name": "Remedios"
+  },
+  {
+    "id": 76,
+    "provinces_id": 10,
+    "name": "Santa María"
+  },
+  {
+    "id": 77,
+    "provinces_id": 9,
+    "name": "Taboga"
+  },
+  {
+    "id": 78,
+    "provinces_id": 8,
+    "name": "Tierras Altas"
+  },
+  {
+    "id": 79,
+    "provinces_id": 3,
+    "name": "Omar Torrijos Herrera"
+  },
+  {
+    "id": 80,
+    "provinces_id": 2,
+    "name": "Santa Fe"
+  },
+  {
+    "id": 81,
+    "provinces_id": 14,
+    "name": "Naso Tjër Di"
+  },
+  {
+    "id": 82,
+    "provinces_id": 4,
+    "name": "Bledeshia"
+  },
+  {
+    "id": 83,
+    "provinces_id": 4,
+    "name": "Jirondai"
+  }
+]

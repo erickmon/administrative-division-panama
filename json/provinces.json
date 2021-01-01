@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Bocas del Toro"
+  },
+  {
+    "id": 2,
+    "name": "Darién"
+  },
+  {
+    "id": 3,
+    "name": "Colón"
+  },
+  {
+    "id": 4,
+    "name": "Comarca Ngäbe-Buglé"
+  },
+  {
+    "id": 5,
+    "name": "Veraguas"
+  },
+  {
+    "id": 6,
+    "name": "Comarca Guna Yala"
+  },
+  {
+    "id": 7,
+    "name": "Coclé"
+  },
+  {
+    "id": 8,
+    "name": "Chiriquí"
+  },
+  {
+    "id": 9,
+    "name": "Panamá"
+  },
+  {
+    "id": 10,
+    "name": "Herrera"
+  },
+  {
+    "id": 11,
+    "name": "Los Santos"
+  },
+  {
+    "id": 12,
+    "name": "Panamá Oeste"
+  },
+  {
+    "id": 13,
+    "name": "Comarca Emberá-Wounaan"
+  },
+  {
+    "id": 14,
+    "name": "Comarca Naso Tjër Di"
+  }
+]
